@@ -9,6 +9,6 @@
 
 &nbsp;
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codenor&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codenor&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenor&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenor&theme=default)
