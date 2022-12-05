@@ -11,4 +11,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codenor&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenor&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codenor&theme=default&layout=compact)
