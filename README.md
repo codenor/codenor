@@ -31,9 +31,9 @@ Visit my [personal website](https://arbnor.xyz/).
 
 <p align="center">
   <a href="https://github.com/codenor">
-    <img height="200em" src="https://github-readme-stats-codenor.vercel.app/api?username=codenor&theme=default&include_all_commits=true&show_icons=true">
+    <img height="175em" src="https://github-readme-stats-codenor.vercel.app/api?username=codenor&theme=default&include_all_commits=true&show_icons=true">
   </a>
   <a href="https://github.com/codenor">
-    <img height="200em" src="https://github-readme-stats-codenor.vercel.app/api/top-langs/?username=codenor&theme=default&langs_count=6&layout=compact">
+    <img height="175em" src="https://github-readme-stats-codenor.vercel.app/api/top-langs/?username=codenor&theme=default&langs_count=6&layout=compact">
   </a>
 </p>
