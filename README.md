@@ -1,4 +1,4 @@
-# Hi there, I'm Arbnor 👋
+# 👋 Hi there, I'm Arbnor
 
 <p align="center">
   <a href="https://twitter.com/the_arbnor">
@@ -12,7 +12,7 @@
 ## 🌐 Personal website 
 Visit my [personal website](https://arbnor.xyz/).
 
-## Technologies I use
+## 🔥 Technologies I use
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
@@ -27,7 +27,7 @@ Visit my [personal website](https://arbnor.xyz/).
 ![Tauri](https://img.shields.io/badge/-Tauri-black?style=flat-square&logo=Tauri)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## My Github Stats
+## 📊 My Github Stats
 
 <p align="center">
   <a href="https://github.com/codenor">
