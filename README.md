@@ -9,9 +9,6 @@
   </a>
 </p>
 
-## 🌐 Personal website 
-Visit my [personal website](https://arbnor.xyz/).
-
 ## 🔥 Technologies I use
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
