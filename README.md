@@ -4,9 +4,6 @@
   <a href="https://twitter.com/the_arbnor">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/the_arbnor?logo=twitter&style=for-the-badge">
   </a>
-  <a href="https://mas.to/@masnor">
-    <img src="https://img.shields.io/mastodon/follow/109334880637363941?domain=https%3A%2F%2Fmas.to&logo=mastodon&style=for-the-badge">
-  </a>
 </p>
 
 ## 🔥 Technologies I use
